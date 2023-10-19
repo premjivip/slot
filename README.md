@@ -1,5 +1,5 @@
 # Ex03 Time Table
-
+##Date:13/09/2023
 ## AIM
 To write a html webpage page to display your slot timetable.
 
@@ -152,9 +152,9 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-![Screenshot (14)](https://github.com/premjivip/slot/assets/143831886/dbc93c5b-615d-4c65-881b-b0b91345904e)
+![output exp3 premji](https://github.com/premjivip/slot/assets/143831886/2fd294dc-c9d7-4a02-8e9b-fee75d51726c)
 
-## HTML VALIDATOR
+
 
 
 ## RESULT
